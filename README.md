@@ -7,3 +7,8 @@
 Eat Sleep Breathe
 🤔 I think life is like a journey
 All of us are just travelers on the long journey of life 🧭
+
+![kaykay's GitHub stats](https://github-readme-stats.vercel.app/api?username=sthax17&show_icons=true&theme=buefy)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sthax17&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
